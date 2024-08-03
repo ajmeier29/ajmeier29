@@ -1,6 +1,6 @@
 ---
 title: 'Second Blog Post'
-status: 'draft'
+status: 'published'
 author:
   name: 'Andrew'
   picture: 'https://avatars.githubusercontent.com/u/6503252?v=4'
