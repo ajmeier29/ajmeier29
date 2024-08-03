@@ -1,24 +1,6 @@
 {
-  "commit": "d41e4764ed573657623b515bfd3e14153eb8deff",
-  "generated": "Sat, 03 Aug 2024 21:56:49 GMT",
+  "commit": "d4ddb55d2d1a952c66b3279dc5ae6f8092a002f2",
+  "generated": "2024-08-03T21:56:54.887Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "5def0b68721bb95b97dfb92a85011f32b00374bb",
-        "hash": "2447813262",
-        "path": "outstatic/content/posts/new-blog-post-about-authorized-users.md"
-      },
-      "author": {
-        "name": "Andrew",
-        "picture": "https://avatars.githubusercontent.com/u/6503252?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/screenshot-2024-08-03-at-3.38.54-pm-E4MD.png",
-      "description": "",
-      "publishedAt": "2024-08-03T21:30:04.049Z",
-      "slug": "new-blog-post-about-authorized-users",
-      "status": "published",
-      "title": "New Blog Post about Authorized Users"
-    }
   ]
 }
