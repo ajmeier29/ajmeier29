@@ -1,6 +1,6 @@
 {
-  "commit": "d41e4764ed573657623b515bfd3e14153eb8deff",
-  "generated": "Sat, 03 Aug 2024 21:56:59 GMT",
+  "commit": "3998f03edbc85f3c4b260308a6acfeb29ab96daf",
+  "generated": "2024-08-03T22:20:42.125Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "new-blog-post-about-authorized-users",
       "status": "published",
       "title": "New Blog Post about Authorized Users"
+    },
+    {
+      "__outstatic": {
+        "commit": "3998f03edbc85f3c4b260308a6acfeb29ab96daf",
+        "hash": "1093009443",
+        "path": "outstatic/content/p-osts/test-titel.md"
+      },
+      "author": {
+        "name": "Andrew",
+        "picture": "https://avatars.githubusercontent.com/u/6503252?v=4"
+      },
+      "collection": "p-osts",
+      "coverImage": "/images/screenshot-2024-08-02-at-10.03.05-pm-c2Nz.png",
+      "description": "",
+      "publishedAt": "2024-08-03T21:56:26.988Z",
+      "slug": "test-titel",
+      "status": "published",
+      "title": "TEst Titel"
     }
   ]
 }
